@@ -1,38 +1,19 @@
-# secretaNIa
+# FEUP-ES
 
-## secretaNIa Development Report
+Group project for the ES course unit at FEUP.
 
-Welcome to the documentation pages of the secretaNIa!
+[Old readme](README.old.md)
 
-You can find here detailed about the product (or mini-app or module), from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of RUP): 
+## Unit info
 
-* Business modeling 
-  * [Product Vision](https://github.com/LEIC-ES-2021-22/2LEIC09T5/blob/main/docs/ProductVision.md)
-  * [Elevator Pitch]()
-* [Requirements](https://github.com/LEIC-ES-2021-22/2LEIC09T5/blob/main/docs/requirements.md)
-  * [Use Case Model](https://github.com/LEIC-ES-2021-22/2LEIC09T5/blob/main/docs/requirements.md)
-  * [Domain model]()
-  * [User stories]()
-* [Architecture and Design]()
-  * [Logical architecture]()
-  * [Physical architecture]()
-  * [Prototype]()
-* [Implementation]()
-* [Test]()
-* [Configuration and change management]()
-* [Project management]()
+* **Name**: Engenharia de Software (Software Engineering)
+* **Date**: Year 2, Semester 2, 2021/22
+* [**More info**](https://sigarra.up.pt/feup/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484425)
 
-So far, contributions are exclusively made by the initial team, but we hope to open them to the community, in all areas and topics: requirements, technologies, development, experimentation, testing, etc.
+## Disclaimer
 
-Please contact us! 
+This repository (and all others with the name format `feup-*`) are for archival and educational purposes only.
 
-Thank you!
+If you don't understand some part of the code or anything else in this repo, feel free to ask (although I may not understand it myself anymore).
 
-#### António Santos, up202008004
-#### Pedro Silva, up202004985
-#### Pedro Nunes, up202004714 
-#### Nuno Anjos, up202007865
-#### José Osório, up202004653
-#### João Pereira, up202007145
----
-
+Keep in mind that this repo is public. If you copy any code and use it in your school projects you may be flagged for plagiarism by automated tools.
